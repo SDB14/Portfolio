@@ -1,6 +1,6 @@
 # Portfolio
 
-Present my name, a recent photo , and links to sections about them, their work, and how to contact me
+Provides the begining details of my developer portfolio. It presents my name, a recent photo , and links to sections about them, their work, and how to contact me
 On click of one of the links in the navigation the UI scrolls to the corresponding section
 The page/ site is available to be viewed on various screen sizes because of the responsive layout
 
